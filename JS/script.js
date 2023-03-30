@@ -2,8 +2,8 @@
 // 타이핑 효과
 const $txt = document.querySelector(".txt-title");
 
-// 글자 모음 - 개행문자(\n)로 줄바꿈
-const content = "안녕하세요! \nCoMit 유현지입니다:)";
+// content 변수
+const content = "안녕하세요! \nCoMit 웹개발 분반 \n 유현지입니다:)";
 let contentIndex = 0;
 
 // typing 함수
