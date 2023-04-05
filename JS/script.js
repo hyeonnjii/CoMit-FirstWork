@@ -31,7 +31,7 @@ setInterval(typing, 200);
 const $btnPrev = document.querySelector(".btn-prev");
 const $btnNext = document.querySelector(".btn-next");
 const $slideImgs = document.querySelector(".slide-images");
-const IMG_WIDTH = 200;
+const IMG_WIDTH = 400;
 
 // 이미지 위치 변경 변수
 let imgIndex = 0; 

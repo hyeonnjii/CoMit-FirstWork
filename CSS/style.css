@@ -24,7 +24,7 @@
     top: 0;
     left: 0;
     right: 0;
-    padding: 45px 60px;
+    padding: 20px 60px;
     background-color: white;
     color: #7a64bd;
     font-size: 18px;
@@ -72,7 +72,7 @@
   
   /* intro섹션 */
   .cont-intro {
-    margin: 300px 0 350px 0;
+    margin: 300px 100px 350px 100px;
     display: flex;
     justify-content: center;
   }
@@ -81,7 +81,7 @@
   }
   .txt-title {
     width: 620px;
-    margin-top: 100px;
+    margin: 20px, 100px;
     font-size: 70px;
     font-family: "NanumSquareNeoBold";
     color: #4c1981;
@@ -111,7 +111,7 @@
     justify-content: center;
     flex-direction: column;
     background-color: white;
-    padding: 80px 0 140px 0;
+    padding: 200px 0 140px 0;
     margin: 0 0 140px 0;
   }
   .section-about h2 {
@@ -131,7 +131,7 @@
   }
   .slide-album {
     position: relative;
-    width: 438px;
+    width: 400px;
     height: 438px;
     overflow: hidden;
     border-radius: 20px;
@@ -139,7 +139,7 @@
   .slide-images {
     position: relative;
     display: flex;
-    height: 500px;
+  
   }
   .slide-images img {
     width: 500px;
